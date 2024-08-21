@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/adhamkhaled312/LeetCode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -131,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

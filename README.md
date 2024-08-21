@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/adhamkhaled312/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adhamkhaled312/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

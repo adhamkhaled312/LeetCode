@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adhamkhaled312/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adhamkhaled312/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->

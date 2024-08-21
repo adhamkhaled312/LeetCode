@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adhamkhaled312/LeetCode/tree/master/0207-course-schedule) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Graph
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/0078-subsets) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Tree

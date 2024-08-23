@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adhamkhaled312/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adhamkhaled312/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |

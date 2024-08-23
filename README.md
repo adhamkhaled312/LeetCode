@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/adhamkhaled312/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/adhamkhaled312/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/adhamkhaled312/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

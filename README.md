@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adhamkhaled312/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/adhamkhaled312/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhamkhaled312/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/adhamkhaled312/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/adhamkhaled312/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adhamkhaled312/LeetCode/tree/master/0011-container-with-most-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adhamkhaled312/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

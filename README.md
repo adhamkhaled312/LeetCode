@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/adhamkhaled312/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/adhamkhaled312/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/0078-subsets) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adhamkhaled312/LeetCode/tree/master/0069-sqrtx) |
 | [0279-perfect-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/adhamkhaled312/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -1,24 +1,16 @@
 class Solution {
 public:
-   vector<int> twoSum(vector<int>& nums, int target) {
-        int left=0;
-        int right=nums.size()-1;
-        int sum;
-        vector<pair<int, int>> numWithIndices;
-        for (int i = 0; i < nums.size(); ++i) {
-            numWithIndices.push_back({nums[i], i});
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int>mp;
+        for(int i=0; i<nums.size(); i++){
+            mp[nums[i]] = i;
         }
-        sort(numWithIndices.begin(),numWithIndices.end());
-        while(right>left){
-            sum=numWithIndices[right].first+numWithIndices[left].first;
-            if(sum>target){
-                right--;
-            }else if(sum<target){
-                left++;
-            }else{
-                break;
+        for(int i=0; i<nums.size(); i++){
+            int diff = target - nums[i];
+            if(mp.find(diff) != mp.end() && mp[diff] != i){
+                return{i,mp[diff]};
             }
         }
-        return {numWithIndices[left].second,numWithIndices[right].second};
+        return {};
     }
 };

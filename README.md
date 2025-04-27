@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhamkhaled312/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adhamkhaled312/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/adhamkhaled312/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/adhamkhaled312/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adhamkhaled312/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/adhamkhaled312/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 ## Bitmask
 |  |

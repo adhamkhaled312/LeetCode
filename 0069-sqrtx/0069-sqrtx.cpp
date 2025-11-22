@@ -1,22 +1,26 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        int s=0;
-        int e=x;
-        int ans=-1;
-        while(s<=e){
-            long long int mid=s+(e-s)/2;
-            if(mid*mid == x){
-                return mid;
+        int left=1;
+        int right=x/2;
+        int res;
+        if(x==1 || x==0){
+            return x;
+        }
+        while(left <= right){
+            int mid=left+(right-left)/2;
+            if(mid==x/mid){
+                res=mid;
+                break;
             }
-            else if(mid*mid < x){
-                ans=mid;
-                s=mid+1;
+            else if(mid > x/mid){
+                right=mid-1;
             }
             else{
-                e=mid-1;
+                left=mid+1;
+                res=mid;
             }
         }
-        return ans;
+        return res;
     }
 };

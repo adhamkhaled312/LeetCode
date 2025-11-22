@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/adhamkhaled312/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3463-alternating-groups-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Dynamic Programming
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/adhamkhaled312/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
 |  |
 | ------- |

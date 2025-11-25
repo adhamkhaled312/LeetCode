@@ -1,13 +1,12 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        unsigned long longestString = 0;
+        unsigned long shortestString = 202;
         string prefix="";
         for(int i=0;i<strs.size();i++){
-            longestString = max(longestString,strs[i].size());
+            shortestString = min(shortestString,strs[i].size());
         }
-        cout<<longestString;
-        for(int i=0;i<longestString;i++){
+        for(int i=0;i<shortestString;i++){
             char c=strs[0][i];
             bool same=true;
             for(int j=1;j<strs.size();j++){

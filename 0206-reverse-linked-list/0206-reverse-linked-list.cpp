@@ -14,9 +14,18 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode* newHead=reverseList(head->next);
-        head->next->next=head;
+        ListNode* prev=head;
+        ListNode* curr=head->next;
+        ListNode* next=head->next->next;
+        while(next!=NULL){
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+            next=next->next;
+
+        }
+        curr->next=prev;
         head->next=NULL;
-        return newHead;
+        return curr;
     }
 };

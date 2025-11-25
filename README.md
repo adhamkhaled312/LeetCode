@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3463-alternating-groups-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
+| [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |

@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adhamkhaled312/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/adhamkhaled312/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/adhamkhaled312/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adhamkhaled312/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/adhamkhaled312/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |

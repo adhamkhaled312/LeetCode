@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adhamkhaled312/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhamkhaled312/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/adhamkhaled312/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -242,16 +243,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Union Find
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adhamkhaled312/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |

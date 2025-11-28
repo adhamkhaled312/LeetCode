@@ -12,26 +12,11 @@
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        queue<TreeNode*> q;
+        if(!root) return 0;
         int ret=0;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* temp=q.front();
-            if(temp->val >= high){
-                if(temp->left) q.push(temp->left);
-            }
-            else if(temp->val <=low){
-                if(temp->right) q.push(temp->right);
-            }
-            else {
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
-            }
-            if(temp->val >=low && temp->val <= high ){
-                ret+=temp->val;
-            }
-            q.pop();
-        }
+        if(root->val > low)  ret += rangeSumBST(root->left, low,high);
+        if(root->val < high) ret += rangeSumBST(root->right,low,high);
+        if(root->val >= low && root->val <= high) ret+= root->val;
         return ret;
     }
 };

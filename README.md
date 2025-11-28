@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adhamkhaled312/LeetCode/tree/master/0207-course-schedule) |
+| [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,14 +242,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Union Find
 |  |
 | ------- |

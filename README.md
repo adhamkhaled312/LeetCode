@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/adhamkhaled312/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/adhamkhaled312/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adhamkhaled312/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adhamkhaled312/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adhamkhaled312/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/adhamkhaled312/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1021-remove-outermost-parentheses](https://github.com/adhamkhaled312/LeetCode/tree/master/1021-remove-outermost-parentheses) |

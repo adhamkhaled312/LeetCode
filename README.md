@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/0575-distribute-candies) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/adhamkhaled312/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/adhamkhaled312/LeetCode/tree/master/0792-binary-search) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/adhamkhaled312/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adhamkhaled312/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/adhamkhaled312/LeetCode/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Linked List

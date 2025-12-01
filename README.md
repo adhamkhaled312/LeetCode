@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/adhamkhaled312/LeetCode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adhamkhaled312/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adhamkhaled312/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Linked List
 |  |
 | ------- |

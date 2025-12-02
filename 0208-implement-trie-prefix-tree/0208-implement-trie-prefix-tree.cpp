@@ -1,9 +1,11 @@
 class Node{
     public:
-    unordered_map<char,Node*>child;
-    bool completeWord;
+    Node *child[26];
+    bool completeWord = false;
     Node(){
-        completeWord=false;
+        for(int i=0;i<26;i++){
+            child[i]=nullptr;
+        }
     }
 };
 class Trie {
@@ -15,10 +17,11 @@ public:
     void insert(string word) {
         Node* temp=root;
         for(int i=0;i<word.size();i++){
-            if(temp->child.find(word[i])==temp->child.end()){
-                temp->child[word[i]] = new Node();
+            int chIndex=word[i]-'a';
+            if(!temp->child[chIndex]){
+                temp->child[chIndex] = new Node();
             }
-            temp=temp->child[word[i]];
+            temp=temp->child[chIndex];
         }
         temp->completeWord=true;
     }
@@ -26,10 +29,11 @@ public:
     bool search(string word) {
         Node* temp=root;
         for(int i=0;i<word.size();i++){
-            if(temp->child.find(word[i])==temp->child.end()){
+            int chIndex=word[i]-'a';
+            if(!temp->child[chIndex]){
                 return false;
             }
-            temp=temp->child[word[i]];
+            temp=temp->child[chIndex];
         }
         return temp->completeWord;
     }
@@ -37,10 +41,11 @@ public:
     bool startsWith(string prefix) {
         Node* temp=root;
         for(int i=0;i<prefix.size();i++){
-            if(temp->child.find(prefix[i])==temp->child.end()){
+            int chIndex=prefix[i]-'a';
+            if(!temp->child[chIndex]){
                 return false;
             }
-            temp=temp->child[prefix[i]];
+            temp=temp->child[chIndex];
         }
         return true;
     }

@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/adhamkhaled312/LeetCode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/adhamkhaled312/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0441-arranging-coins](https://github.com/adhamkhaled312/LeetCode/tree/master/0441-arranging-coins) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/adhamkhaled312/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhamkhaled312/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer

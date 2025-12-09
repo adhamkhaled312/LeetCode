@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhamkhaled312/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3463-alternating-groups-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/adhamkhaled312/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |
 ## Prefix Sum
 |  |
 | ------- |

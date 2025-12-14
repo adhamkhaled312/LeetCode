@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhamkhaled312/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhamkhaled312/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/adhamkhaled312/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/adhamkhaled312/LeetCode/tree/master/0441-arranging-coins) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adhamkhaled312/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/adhamkhaled312/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhamkhaled312/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhamkhaled312/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhamkhaled312/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Divide and Conquer

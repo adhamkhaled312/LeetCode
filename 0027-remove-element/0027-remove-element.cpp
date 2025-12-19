@@ -6,7 +6,7 @@ public:
         int last=nums.size()-1;
         while(first<=last){
             if(nums[first]==val){
-                swap(nums[first],nums[last]);
+                nums[first]=nums[last];
                 last--;
             }
             else{

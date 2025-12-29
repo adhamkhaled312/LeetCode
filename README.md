@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adhamkhaled312/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adhamkhaled312/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/adhamkhaled312/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adhamkhaled312/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/adhamkhaled312/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhamkhaled312/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adhamkhaled312/LeetCode/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adhamkhaled312/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhamkhaled312/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |

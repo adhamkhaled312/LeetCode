@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1418-fair-distribution-of-cookies](https://github.com/adhamkhaled312/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adhamkhaled312/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

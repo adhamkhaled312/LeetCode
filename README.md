@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/adhamkhaled312/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-last-stone-weight](https://github.com/adhamkhaled312/LeetCode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/adhamkhaled312/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

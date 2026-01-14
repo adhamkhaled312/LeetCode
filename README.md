@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/adhamkhaled312/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/adhamkhaled312/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/adhamkhaled312/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/adhamkhaled312/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/adhamkhaled312/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adhamkhaled312/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/adhamkhaled312/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/adhamkhaled312/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [1021-remove-outermost-parentheses](https://github.com/adhamkhaled312/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/adhamkhaled312/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/adhamkhaled312/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |

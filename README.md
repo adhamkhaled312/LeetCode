@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/adhamkhaled312/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/adhamkhaled312/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/adhamkhaled312/LeetCode/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/adhamkhaled312/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/adhamkhaled312/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adhamkhaled312/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/adhamkhaled312/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/adhamkhaled312/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/adhamkhaled312/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/adhamkhaled312/LeetCode/tree/master/0811-subdomain-visit-count) |
+| [0992-subarrays-with-k-different-integers](https://github.com/adhamkhaled312/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |

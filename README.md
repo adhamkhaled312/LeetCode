@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adhamkhaled312/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/adhamkhaled312/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/adhamkhaled312/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adhamkhaled312/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/adhamkhaled312/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/adhamkhaled312/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/adhamkhaled312/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adhamkhaled312/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/adhamkhaled312/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Combinatorics
 |  |

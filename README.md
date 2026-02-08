@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adhamkhaled312/LeetCode/tree/master/0207-course-schedule) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adhamkhaled312/LeetCode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/adhamkhaled312/LeetCode/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Graph
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/adhamkhaled312/LeetCode/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |

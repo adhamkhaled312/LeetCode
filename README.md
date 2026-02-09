@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/adhamkhaled312/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/adhamkhaled312/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/adhamkhaled312/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/adhamkhaled312/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
 | ------- |

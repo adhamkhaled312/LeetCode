@@ -1,28 +1,30 @@
 class Solution {
 public:
-
-    void discover(const vector<vector<char>>& grid,int row, int col,vector<vector<bool>>& visited){
-        if(row < 0 || row >= grid.size() || col < 0 || col >= grid[0].size()  || grid[row][col]=='0' || visited[row][col] ){
-            return;
-        }
-        visited[row][col]=true;
-        discover(grid,row,col+1,visited);
-        discover(grid,row,col-1,visited);
-        discover(grid,row+1,col,visited);
-        discover(grid,row-1,col,visited);
-    }
+    int m,n;
     int numIslands(vector<vector<char>>& grid) {
-        vector<vector<bool>> visited( grid.size(), vector<bool>(grid[0].size(),false));
         int ret=0;
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
-                if(grid[i][j]=='1' && !visited[i][j]){
-                    discover(grid,i,j,visited);
+        m=grid.size();
+        n=grid[0].size();
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1'){
                     ret++;
-
+                    solve(grid,i,j);
                 }
             }
         }
+        
         return ret;
+    }
+    void solve(vector<vector<char>>& grid, int i,int j){
+        if (i < 0 || j < 0 || i >= m || j >= n)
+            return;
+        if(grid[i][j]=='1'){
+            grid[i][j]='0';
+            solve(grid,i+1,j);
+            solve(grid,i-1,j);
+            solve(grid,i,j+1);
+            solve(grid,i,j-1);
+        }
     }
 };

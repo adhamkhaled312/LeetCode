@@ -1,39 +1,29 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> indegree(numCourses, 0);
-        unordered_map<int, vector<int>> graph;
-
-        for (const auto& prereq : prerequisites) {
-            int p = prereq[1];
-            int q = prereq[0];
-            graph[p].push_back(q);
-            indegree[q]++;
+        vector<vector<int>> adj(numCourses);
+        for(int i=0;i<prerequisites.size();i++){
+            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
+        vector<bool>visited(numCourses,false);
+        vector<bool>path(numCourses,false);
 
-        queue<int> q;
-        for (int i = 0; i < numCourses; ++i) {
-            if (indegree[i] == 0) {
-                q.push(i);
-            }
+        for(int i=0;i<numCourses;i++){
+            if(!visited[i])
+                if (dfs(i,adj,visited,path)) return false;
         }
+        return true;
+    }
 
-        int count = 0;
-        while (!q.empty()) {
-            int course = q.front();
-            q.pop();
-            count++;
-
-            if (graph.find(course) != graph.end()) {
-                for (int nextCourse : graph[course]) {
-                    indegree[nextCourse]--;
-                    if (indegree[nextCourse] == 0) {
-                        q.push(nextCourse);
-                    }
-                }
-            }
+    bool dfs(int node,vector<vector<int>>& adj ,vector<bool>& visited, vector<bool>& path){
+        visited[node]=true;
+        path[node]=true;
+        for(int i=0;i<adj[node].size();i++){
+            int curr=adj[node][i];
+            if(!visited[curr]) dfs(curr,adj,visited,path);
+            if(path[curr]) return true;
         }
-
-        return count == numCourses;
+        path[node]=false;
+        return false;
     }
 };

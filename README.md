@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adhamkhaled312/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |

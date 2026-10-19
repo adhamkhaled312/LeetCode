@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adhamkhaled312/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adhamkhaled312/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adhamkhaled312/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/adhamkhaled312/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/adhamkhaled312/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adhamkhaled312/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adhamkhaled312/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adhamkhaled312/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3011-find-if-array-can-be-sorted](https://github.com/adhamkhaled312/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/adhamkhaled312/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1208-get-equal-substrings-within-budget](https://github.com/adhamkhaled312/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/adhamkhaled312/LeetCode/tree/master/1268-search-suggestions-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adhamkhaled312/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |

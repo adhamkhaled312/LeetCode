@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/adhamkhaled312/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/adhamkhaled312/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adhamkhaled312/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/adhamkhaled312/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/adhamkhaled312/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adhamkhaled312/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhamkhaled312/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/adhamkhaled312/LeetCode/tree/master/3583-count-special-triplets) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adhamkhaled312/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adhamkhaled312/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/adhamkhaled312/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adhamkhaled312/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adhamkhaled312/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/adhamkhaled312/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adhamkhaled312/LeetCode/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adhamkhaled312/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
